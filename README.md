@@ -1,3 +1,4 @@
-# boracodar-desafio
+#BoraCodar (Desafio Rocketseat)
 
-Projetos do #BoraCodar da Rocketseat
+Projetos:
+* Desafio 01 - Music Player
